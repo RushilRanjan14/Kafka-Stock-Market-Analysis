@@ -1,6 +1,5 @@
 # Kafka Stock Market Analysis 
 
-
 ## Architecture 
 <img src="Architecture.jpg">
 
